@@ -13,7 +13,7 @@ New order can be created by creating an **POST** request at 35mm-shop.glitch.me/
 
 Full list of orders is available at 35mm-shop.glitch.me/orders via **GET** request.
 
-Any order can be deleted via **DELETE** request by adding a path variable *:orderID* to 5mm-shop.glitch.me/orders/[here].
+Any order can be deleted via **DELETE** request by adding a path variable *:orderID* to 35mm-shop.glitch.me/orders/[here].
 
 Screenshot of Postman with all four requests added to collection is added below:
 ![Postman screenshot](https://github.com/fedinb/35mm-Shop-API/blob/main/Postman_Screenshot.png)
