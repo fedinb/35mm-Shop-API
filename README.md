@@ -18,3 +18,6 @@ Any order can be deleted via **DELETE** request by adding a path variable *:orde
 Screenshot of Postman with all four requests added to collection is added below:
 ![Postman screenshot](https://github.com/fedinb/35mm-Shop-API/blob/main/Postman_Screenshot.png)
 
+
+![Postman screenshot](https://github.com/fedinb/35mm-Shop-API/blob/main/000047850027.tif)
+
