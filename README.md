@@ -19,5 +19,11 @@ Screenshot of Postman with all four requests added to collection is added below:
 ![Postman screenshot](https://github.com/fedinb/35mm-Shop-API/blob/main/Postman_Screenshot.png)
 
 
-![Postman screenshot](https://github.com/fedinb/35mm-Shop-API/blob/main/000047850027.tif)
+By the way, a couple of photos shot on Kodak Portra 800 during my trip in Florence: film with ID 1 at 35mm-shop.glitch.me/films.
+
+
+![Cat in the window.](https://cdn.glitch.com/6a152ebb-6dc1-4d41-914c-715435996795%2F000047850029.png?v=1608111824244)
+
+![Florence Cathedral shot from distance.](https://cdn.glitch.com/6a152ebb-6dc1-4d41-914c-715435996795%2F000047850027.png?v=1608111830071)
+
 
