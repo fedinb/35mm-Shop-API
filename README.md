@@ -15,7 +15,7 @@ Full list of orders is available at 35mm-shop.glitch.me/orders via **GET** reque
 
 Any order can be deleted via **DELETE** request by adding a path variable *:orderID* to 35mm-shop.glitch.me/orders/[here].
 
-Screenshot of Postman with all four requests added to collection is added below:
+Screenshot of Postman with all four requests added to collection:
 ![Postman screenshot](https://github.com/fedinb/35mm-Shop-API/blob/main/Postman_Screenshot.png)
 
 
